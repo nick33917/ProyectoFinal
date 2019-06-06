@@ -1,4 +1,5 @@
 MS-PUESTO -> Post,Put ( Error PK)
 MS-EVALUACION -> Terminar (No era importante)
-MS-USUARIO ->Put (Error PK)
-MS-RESERVA -> Terminar...
+MS-USUARIO ->(Falta agregar 2 config para poder usar el Post y el Put con el MAPPER)
+MS-RESERVA -> (Falta revisar el post , post (necesita que le pasemos varios objetos ademas de atributos))
+MS-TIPORESERVA -> Revisar (Tiene 2 proyectos)
